@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Torutuga
+- 👀 I’m interested in learning to code, music and games.
+- 🌱 I’m currently learning Python 3.x, and the basics of programming.
+- 💞️ I’m looking to collaborate on... nothing for now really.
+- 📫 How to reach me: latorutuga@gmail.com
